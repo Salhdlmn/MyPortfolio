@@ -56,7 +56,7 @@
 
 - ## 📸 Projeden Ekran Görüntüleri
 
-![Site 1](images/site1.png)
+
 ![Site 2](images/site2.png)
 ![Site 3](images/site3.png)
 ![Site 4](images/site4.png)
