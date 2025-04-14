@@ -256,3 +256,4 @@ C:\Users\Monster\Desktop\Udemy Projeler\MyPortfolioUdemy\MyPortfolioUdemy\bin\De
 C:\Users\Monster\Desktop\Udemy Projeler\MyPortfolioUdemy\MyPortfolioUdemy\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Monster\Desktop\Udemy Projeler\MyPortfolioUdemy\MyPortfolioUdemy\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Monster\Desktop\Udemy Projeler\MyPortfolioUdemy\MyPortfolioUdemy\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Monster\Desktop\Udemy Projeler\MyPortfolioUdemy\MyPortfolioUdemy\obj\Debug\net8.0\MyPortfolioUdemy.sourcelink.json
